@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brigadaWorkshop.iml" filepath="$PROJECT_DIR$/.idea/modules/brigadaWorkshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brigadaWorkshop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/brigadaWorkshop_main.iml" group="brigadaWorkshop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brigadaWorkshop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/brigadaWorkshop_test.iml" group="brigadaWorkshop" />
+    </modules>
+  </component>
+</project>
